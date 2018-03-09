@@ -28,7 +28,7 @@ WebUI.click(findTestObject('Sample/a_SNP Poland  SAP Experts IT o'))
 
 WebUI.verifyLinksAccessible(['https://www.snp-poland.com/pl/oferta/snp-ecm/'])
 
-WebUI.verifyLinksAccessible(['https://www.snp-poland.com/pl/oferta/beeoffice/'])
+//WebUI.verifyLinksAccessible(['https://www.snp-poland.com/pl/oferta/beeoffice/'])
 
 WebUI.closeBrowser()
 
