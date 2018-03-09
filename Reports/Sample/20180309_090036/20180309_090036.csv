@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Sample,Chrome 65.0.3325.146,,2018-03-09 09:00:38,2018-03-09 09:00:44,"6,269s",FAILED
+,,,,,,
+Test Cases/Sample/link_check,Chrome 65.0.3325.146,,2018-03-09 09:00:38,2018-03-09 09:00:43,"5,091s",FAILED
+openBrowser,Chrome 65.0.3325.146,,2018-03-09 09:00:39,2018-03-09 09:00:42,"3,131s",PASSED
+navigateToUrl,Chrome 65.0.3325.146,,2018-03-09 09:00:42,2018-03-09 09:00:43,"1,316s",PASSED
+click,Chrome 65.0.3325.146,,2018-03-09 09:00:43,2018-03-09 09:00:43,"0,279s",FAILED

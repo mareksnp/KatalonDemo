@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportEntity>
+   <description></description>
+   <name>20180309_090452</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;issueCollectionMap&quot;:{&quot;0&quot;:{&quot;testCaseId&quot;:&quot;Test Cases/Sample/link_check&quot;,&quot;issues&quot;:[{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10010&quot;:[],&quot;customfield_10011&quot;:&quot;0|i0000f:&quot;,&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalonstudioprezentacja.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalonstudioprezentacja.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalonstudioprezentacja.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;KD&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;Katalon Demo&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;check&quot;,&quot;description&quot;:&quot;Test Steps:\r\n1. openBrowser\r\n2. navigateToUrl\r\n3. click\r\n4. verifyLinksAccessible\r\n5. closeBrowser\r\n\r\n&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;c421022@nwytg.com&quot;,&quot;displayName&quot;:&quot;Katalon Test&quot;,&quot;self&quot;:&quot;https://katalonstudioprezentacja.atlassian.net/rest/api/2/user?username\u003dadmin&quot;,&quot;name&quot;:&quot;admin&quot;},&quot;priority&quot;:{&quot;id&quot;:1,&quot;self&quot;:&quot;https://katalonstudioprezentacja.atlassian.net/rest/api/2/priority/1&quot;,&quot;name&quot;:&quot;Highest&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalonstudioprezentacja.atlassian.net/rest/api/2/issue/KD-2/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalonstudioprezentacja.atlassian.net/rest/api/2/issue/10002&quot;,&quot;key&quot;:&quot;KD-2&quot;,&quot;id&quot;:10002}]}}}</value>
+         </entry>
+      </properties>
+      <type>REPORT</type>
+   </integratedEntity>
+   <displayName>20180309_090452</displayName>
+</ReportEntity>

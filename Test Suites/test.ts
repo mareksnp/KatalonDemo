@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Sample</name>
+   <name>test</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-03-09T09:04:52</lastRun>
+   <lastRun>2018-03-09T13:08:55</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>4959dbcd-80d1-42b7-8512-ed7646ad26fa</testSuiteGuid>
+   <testSuiteGuid>7fe3b257-5a77-49da-a5f1-534b5bf605d6</testSuiteGuid>
    <testCaseLink>
-      <guid>dea8aef6-98de-4368-b5a9-f181cd98e8e4</guid>
+      <guid>b487db7a-7291-482c-95ce-b3128a9c5382</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sample/link_check</testCaseId>
+      <testCaseId>Test Cases/Test</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

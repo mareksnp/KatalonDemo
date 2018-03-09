@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Sample,Chrome 65.0.3325.146,,2018-03-09 09:04:54,2018-03-09 09:05:03,"9,593s",PASSED
+,,,,,,
+Test Cases/Sample/link_check,Chrome 65.0.3325.146,,2018-03-09 09:04:54,2018-03-09 09:05:03,"9,175s",PASSED
+openBrowser,Chrome 65.0.3325.146,,2018-03-09 09:04:55,2018-03-09 09:04:58,"3,223s",PASSED
+navigateToUrl,Chrome 65.0.3325.146,,2018-03-09 09:04:58,2018-03-09 09:04:59,"1,662s",PASSED
+click,Chrome 65.0.3325.146,,2018-03-09 09:04:59,2018-03-09 09:05:02,"2,189s",PASSED
+verifyLinksAccessible,Chrome 65.0.3325.146,,2018-03-09 09:05:02,2018-03-09 09:05:03,"1,006s",PASSED
+closeBrowser,Chrome 65.0.3325.146,,2018-03-09 09:05:03,2018-03-09 09:05:03,"0,740s",PASSED

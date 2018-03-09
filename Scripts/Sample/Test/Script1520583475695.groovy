@@ -22,9 +22,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/search?q=snp+poland&oq=snp+poland&aqs=chrome..69i57.2067j0j4&sourceid=chrome&ie=UTF-8')
+WebUI.navigateToUrl('https://www.google.com/search?q=snp+poland&oq=snp+poland&aqs=chrome..69i57.3169j0j4&sourceid=chrome&ie=UTF-8')
 
-WebUI.click(findTestObject('Sample/a_SNP Poland  SAP Experts IT o'))
+WebUI.click(findTestObject('Sample/a_SNP Poland  SAP Experts IT o (1)'))
 
 WebUI.verifyLinksAccessible(['https://www.snp-poland.com/pl/oferta/snp-ecm/'])
 
